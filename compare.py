@@ -59,7 +59,6 @@ for pack in root:
         for compare_mod in rows[0]:
             if mod == compare_mod and i > 0:
                 row[i] = "YES"
-                print "added %s, i was %s" % (mod, i)
             i += 1
     rows.append(row)
 
@@ -74,3 +73,7 @@ with open("ftb_compare.csv", "wb") as csvfile:
     writer = csv.writer(csvfile, delimiter="_")
     for row in rows:
         writer.writerow(row)
+
+
+print "Made by Dkkline."
+print "Saved to: ftb_compare.csv"
