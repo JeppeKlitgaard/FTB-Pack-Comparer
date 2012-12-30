@@ -5,6 +5,7 @@ Generates an CSV file for importing to Google Docs containing a comparison of th
 
 
 "Official" google docs page: https://docs.google.com/spreadsheet/pub?key=0AoBvEi8Kl59JdDN4SFdIS3ZJNDAtekZPWEYxU083RGc&single=true&gid=0&output=html
+Only DW20 and MindCrack: https://docs.google.com/spreadsheet/pub?key=0AoBvEi8Kl59JdGVBYUUwX1dGLWZDdW9PRDB0cFdZc3c&single=true&gid=0&output=html
 
 
 Setup
