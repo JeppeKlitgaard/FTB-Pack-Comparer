@@ -9,7 +9,9 @@ Setup
 =====
 * Generate a csv file by executing `python compare.py`
 * Go to docs.google.com, create a new spreadsheet. With seperator: "_"
-* Select all the fields (press the little square between "1" and "a" field.) and right click -> Conditional formatting
+* Select all the fields (press the little square between "1" and "a" field.)
+* Set font size to 18.
+* Right click -> Conditional formatting
 * Make 2 rules, they have to be exactly "YES" and "NO", "YES" should have green color, "NO" should have red color.
 * Profit.
 
