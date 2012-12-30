@@ -4,6 +4,8 @@ FTB-Pack-Comparer
 Generates an CSV file for importing to Google Docs containing a comparison of the different FTB packs.
 
 
+"Official" google docs page: https://docs.google.com/spreadsheet/pub?key=0AoBvEi8Kl59JdDN4SFdIS3ZJNDAtekZPWEYxU083RGc&single=true&gid=0&output=html
+
 
 Setup
 =====
